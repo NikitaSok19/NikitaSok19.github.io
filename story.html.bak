@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Personal Website</title>
+    <link rel="stylesheet" href="style.css" />
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400;1,700&family=Montserrat:ital,wght@0,400;0,700;1,300;1,400&family=Roboto&display=swap" rel="stylesheet">
+  <body id="about">
+    <div id="container">
+      <header>
+        <h2> My story </h2>
+        <nav>
+			<ul>
+			  <li><a href="index.html">Home</a></li>
+			  <li><a href="story.html">United States</a></li>
+			  <li><a href="basketball.html">Projects</a></li>
+			  <li><a href="contact.html">Contact</a></li>
+			</ul>
+        </nav>
+      </header>
+      <main>
+        <div class="two-column">
+          <div>
+            <h1>Background</h1>
+           <p> The period in America became a key one for me. Having made many acquaintances and friends, it helped me become stronger as a person and finish school.</p>
+          </div>
+          <div>
+            <img class="city-picture" src="LEE.jpg" alt="City view at night" />
+          </div>
+        </div>
+        
+      </main>
+      <footer>
+        <p><a href="https://www.facebook.com/tiesiog.nika/" class="fa fa-facebook"></a></p> 
+      </footer> 
+	  <footer>
+        <p><a href="https://www.instagram.com/sokolov_5/" class="fa fa-instagram"></a></p>
+      </footer>
+	 <footer>
+        <p><a href="https://twitter.com/nikissokolov/status/1363046010730209280?s=21&fbclid=IwAR1DKMHPuVRBSIGzoGfHiYkVFwEEgvaQU1-CSS5LAacYG9XHJIhW-jTb820" class="fa fa-twitter"></a></p>
+      </footer>
+	  
+      </footer>
+    </div>
+  </body>
+</html>
+		

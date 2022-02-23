@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> My Story</title>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="style.css">
+	
+	
+	
+  </head>
+  <body>
+    <div id="container">
+      <header>
+        <h2> My Story </h2>
+        <nav>
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="story.html">United States</a></li>
+            <li><a href="basketball.html">Basketball</a></li>
+            <li><a href="">Contact</a></li>
+          </ul>
+        </nav>
+      </header>
+      <main>
+        <div class="two-column">
+          <div>
+            <h1>Hello World!</h1>
+            <p> Nikita Sokolov is Contemporary Communication student at LCC International University in Klaipeda, Lithuania. Basketball is a  sport that Nikita playing since 2nd grade. It lets Nikita express himself and gives a feeling of freedom. Energetic atmosphere in pictures, goes without saying. As you can notice in this portfolio, he loves to share his experience and his path. While studying in LCC International University, he developed himself as a creative individual. This website is made for you to learn more about Nikita and his passion. </p>
+          </div>
+          <div>
+            <img class="city-picture" src="Photoset.jpg" alt="City view at night" />
+          </div>
+        </div>
+        
+      </main>
+      <footer>
+        <p><a href="https://www.facebook.com/tiesiog.nika/" class="fa fa-facebook"></a></p> 
+      <
+        <p><a href="https://www.instagram.com/sokolov_5/" class="fa fa-instagram"></a></p>
+      
+        <p><a href="https://twitter.com/nikissokolov/status/1363046010730209280?s=21&fbclid=IwAR1DKMHPuVRBSIGzoGfHiYkVFwEEgvaQU1-CSS5LAacYG9XHJIhW-jTb820" class="fa fa-twitter"></a></p>
+      </footer>
+	  
+	  
+	  
+	  
+	  
+	  
+    </div>
+  </body>
+</html>
